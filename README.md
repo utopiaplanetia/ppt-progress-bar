@@ -5,6 +5,9 @@ Powerpoint Progress Bar (ppt-progress-bar)
 ## Description ##
 A Powerpoint Addin for showing the progress in a PPT presentation.
 
+
+![screenshot](https://github.com/utopiaplanetia/ppt-progress-bar/blob/master/pics/example.PNG)
+
  
 ## Installation ##
 
