@@ -24,7 +24,6 @@ http://www.youtube.com/watch?v=GFADcQtZ8yo
 
 
 ## Usage ##
-
 A screencast is available at YouTube showing how to use the PPT Addin
 
 http://www.youtube.com/watch?v=AhZRIphgD6Y
@@ -34,5 +33,9 @@ http://www.youtube.com/watch?v=AhZRIphgD6Y
 For further development open the pptm file, edit the VBA code and save it as new ppam file.
 
 
-
+## Tested Office Versions ##
+The addin was tested with the following Microsoft Office versions:
+- MS Office 2010
+- MS Office 2013
+- MS Office 2016
 
